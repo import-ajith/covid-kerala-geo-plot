@@ -1,4 +1,4 @@
-# covid19_kerala_geo_plot
+# covid19 kerala geographical plot
 
   COVID19 geographical plotting on kerala based on district wise using plotly.
   
