@@ -2,7 +2,7 @@
 
   COVID19 geographical plotting on kerala based on district wise using plotly.
   
-  Dataset : https://api.covid19india.org/csv/latest/state_wise.csv
+  Dataset : https://api.covid19india.org/state_district_wise.json
 
 ## Author
   
